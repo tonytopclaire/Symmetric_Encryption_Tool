@@ -1,8 +1,6 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------
-# Assignment 1    Symmetric Encryption in Python
-# Course:         INFR 3600U
+# Symmetric Encryption in Python
 # Author:         Shengqian Wang
-# Student Number: 100474399
 # Date:           09/18/2018
 # Description:    Encryption using either AES or 3DES encryption
 # ---------------------------------------------------------------------------------------------------------------------------------------------
